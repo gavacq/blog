@@ -1,4 +1,5 @@
 == README
+Following https://guides.rubyonrails.org/v4.2/getting_started.html
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
